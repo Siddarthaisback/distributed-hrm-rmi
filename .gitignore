@@ -1,19 +1,12 @@
-# Build output
 target/
 *.class
-
-# IDE & Editor
 .idea/
 *.iml
 .vscode/
 *.swp
 *~
-
-# OS & Archives
 .DS_Store
 Thumbs.db
 *.zip
 *.tar.gz
-
-# Logs
 *.log

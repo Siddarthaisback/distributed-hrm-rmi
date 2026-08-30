@@ -1,0 +1,11 @@
+# Runtime Environment
+Java Development Kit (JDK) >= 21
+Apache Maven >= 3.8.0
+PostgreSQL Database Server >= 14.0
+
+# Maven Dependencies (Configured in pom.xml)
+org.postgresql:postgresql == 42.7.3
+
+# Build & Execution Plugins
+org.apache.maven.plugins:maven-compiler-plugin == 3.11.0
+org.codehaus.mojo:exec-maven-plugin == 3.2.0
